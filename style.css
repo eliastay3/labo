@@ -64,6 +64,9 @@ body p {
     padding: 20PX;
     text-align: center;
 }
+.menu-1 ol li{
+    padding: 3px;
+}
 
 
 .menu-1 ol{
